@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(231, 212, 187);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    color: darkblue;
+}
+
+h1{
+    border-bottom: 2px solid black;
+    color: red;
+    font-size: 16px;
+    text-transform: uppercase;
+    text-align: center;
+    
+}
+
+a {
+    color: red;
+}
+
+a:hover {
+    color: blue;
+}
+
+img {
+    border: solid 1px red;
+    padding: 10px;
+    width: 250px;
+    opacity: 0.5;
+}
+
+p.paragraph1 {
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 22px;
+}
+
+p.paragraph2 {
+    color: blue;
+    font-family: cursive;
+    font-size: 18px;
+}
+
+p.paragraph3 {
+    color: green;
+    font-family: fantasy;
+    font-size: 16px;
+}
+
