@@ -1,0 +1,22 @@
+body {
+    background-color: blanchedalmond;
+    font-family: Arial;
+}
+footer {
+    background: burlywood;
+    text-align: center;
+}
+.navigationbar {
+    padding: 5px;
+}
+
+.texttexttext {
+    border-bottom: solid 1px blue;
+    text-align: center;
+    background: burlywood;
+}
+h2{
+    text-align: center;
+    color: cadetblue;
+    border-bottom: dotted crimson 2px;
+}
